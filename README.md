@@ -1,2 +1,8 @@
 # Packaged components
-This are some components by myself.
+There are some components packaged by myself.
+
+# MiniProgram
+## axios 
+packaged the http methods
+## form validate
+init form validate by wxvalidate
